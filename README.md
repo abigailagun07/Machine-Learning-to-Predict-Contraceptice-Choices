@@ -1,6 +1,4 @@
 # Machine-Learning-to-Predict-Contraceptive-Choices
-
-## Overview
 This project investigates contraceptive method choices among Indonesian women, utilizing a subset of data from the National Indonesia Contraceptive Prevalence Survey. The analysis focuses on understanding how demographic and socio-economic factors influence contraceptive method selection, aiming to support policymakers in enhancing family planning programs.
 
 ## Data Description
